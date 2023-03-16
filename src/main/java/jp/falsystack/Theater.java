@@ -2,6 +2,7 @@ package jp.falsystack;
 
 public class Theater {
 
+  // Theaterはただ？ひたすら？TicketSellerのインタフェースだけを依存する
   private final TicketSeller ticketSeller;
 
   public Theater(TicketSeller ticketSeller) {
