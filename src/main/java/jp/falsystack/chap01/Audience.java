@@ -1,6 +1,4 @@
-package jp.falsystack;
-
-import lombok.Getter;
+package jp.falsystack.chap01;
 
 public class Audience {
 

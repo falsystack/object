@@ -1,4 +1,4 @@
-package jp.falsystack;
+package jp.falsystack.chap01;
 
 import lombok.AccessLevel;
 import lombok.Setter;
